@@ -33,7 +33,7 @@ function setup() {
 
 function draw() {
   //rectMode(CENTER);
-  background("lightblue");
+  background("white");
   
   paperball.display();
   ground.display();
